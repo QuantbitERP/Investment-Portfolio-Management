@@ -1,5 +1,5 @@
-app_name = "investment_portfolio_management"
-app_title = "Investment Portfolio Management"
+app_name = "investment_portfolio"
+app_title = "Investment Portfolio"
 app_publisher = "Quantbit Technologies Pvt.Ltd"
 app_description = "Project of investment portfolio management of an organization."
 app_email = "contact@erpdata.in"
